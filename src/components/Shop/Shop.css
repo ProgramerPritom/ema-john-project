@@ -8,6 +8,14 @@
     gap: 45px;
     margin: 100px 50px;
 }
+.pagination button{
+    margin: 5px;
+    border: 2px solid orange;
+}
+.pagination .selected{
+    background-color: orange;
+    color: white;
+}
 .cart-container{
     background-color: rgba(255, 153, 0, 0.3);
 }
